@@ -1,0 +1,3 @@
+easyocr
+pymupdf
+python-docx
